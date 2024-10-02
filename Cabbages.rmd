@@ -23,7 +23,13 @@ veggy <- cabbages
 
 # Methods
 
+$H_0$: There is no difference in the average vitC between c39 and c52. 
+
+$H_A$: There is a difference in the average vitC between c39 and c52.
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+
 
 # Results
 
